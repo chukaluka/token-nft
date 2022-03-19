@@ -1,3 +1,17 @@
+ipfs link: https://ipfs.io/ipfs/QmakgNn8CtuetbEWqYfyLNStkQCxYjMZvSbJWYfB1Q5mJ7
+
+contract address: 0x28a6e0e447cee5128deab577c0fe53a84f229cc4
+
+Metadata structure: {
+               name : // "IMG_20201203_132307.jpg",
+
+               image : https://ipfs.io/ipfs/QmakgNn8CtuetbEWqYfyLNStkQCxYjMZvSbJWYfB1Q5mJ7
+
+               description: // CODToken and DuraNFT
+
+     }
+
+
 REMIX EXAMPLE PROJECT
 
 Remix example project is present when Remix loads for the very first time or there are no files existing in the File Explorer. 
